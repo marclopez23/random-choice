@@ -1,0 +1,31 @@
+[
+    {
+        "platform": "Netflix",
+        "logo": "https://assets.brand.microsites.netflix.io/assets/493f5bba-81a4-11e9-bf79-066b49664af6_cm_1440w.png"
+    },
+    {
+        "platform": "HBO",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png"
+    },
+    {
+        "platform": "Amazon Prime",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amazon_Prime_Logo.svg/1280px-Amazon_Prime_Logo.svg.png"
+    },
+    {
+        "platform": "Disney +",
+        "logo": "https://okibaycolombia.com/wp-content/uploads/2019/04/Disney-Logo.wine_.png"
+    },
+    {
+        "platform": "Movistar +",
+        "logo": "https://www.telefonica.com/documents/737979/141136511/Movistar-plus-vertical-thumbnail.jpg/11599bec-eed1-afe7-d5af-ec73132ed893?t=1587461193219"
+    },
+    {
+        "platform": "Filmin",
+        "logo": "https://androidpc.es/wp-content/uploads/2020/03/filmin-video-logo-n01.jpg"
+    },
+    {
+        "platform": "Rakuten",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1280px-Rakuten_TV_logo.svg.png"
+    }
+
+]
